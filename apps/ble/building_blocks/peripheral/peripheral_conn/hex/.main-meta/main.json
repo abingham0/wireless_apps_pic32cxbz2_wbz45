@@ -39,7 +39,7 @@
 				"content": {
 					"metaDataVersion": "1.0.0",
 					"fileName": "https://yahoo.com",
-					"mimeType": "text/markdown"
+					"mimeType": "text/html"
 				}
 			},
 			"hexFileNamePath": "./../../hex/peripheral_conn.hex"
