@@ -38,8 +38,8 @@
 				"category": "com.microchip.portal.fileRef",
 				"content": {
 					"metaDataVersion": "1.0.0",
-					"fileName": "https://github.com/abingham0/wireless_apps_pic32cxbz2_wbz45/blob/v1.0.0/apps/ble/building_blocks/peripheral/peripheral_conn/readme.md",
-					"mimeType": "text/html"
+					"fileName": "./../../readme.md",
+					"mimeType": "text/markdown"
 				}
 			},
 			"hexFileNamePath": "./../../hex/peripheral_conn.hex"
