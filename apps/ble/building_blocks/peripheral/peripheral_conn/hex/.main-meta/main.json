@@ -38,8 +38,8 @@
 				"category": "com.microchip.portal.fileRef",
 				"content": {
 					"metaDataVersion": "1.0.0",
-					"fileName": "https://microchip-mplab-harmony.github.io/quick_docs/",
-					"mimeType": "text/html"
+					"fileName": "./../readme.md",
+					"mimeType": "text/markdown"
 				}
 			},
 			"hexFileNamePath": "./../../hex/peripheral_conn.hex"
